@@ -135,6 +135,9 @@ Step 4: Exporting Results from DynamoDB
 
  
 •	We will wait until we have a green 'Completed' status beside the exported data.
+
+
+
 •	Then we will go to S3 > our bucket that we export our data in > and we will see our exported data as 'AWSDynamoDB/'.
 
 
